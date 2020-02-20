@@ -1,0 +1,9 @@
+CONTENTS:
+
+crackcount_1.py: basic machine learning algorithm script for predicting cracks
+plot_digits_classification.py: the classic digits machine learning script. used as a reference for modelling crackcount_1
+
+Data:images and traces used in crackcount_1.py
+  B: base images with only blue (no green or red), leftover data from an earlier version of crackcount_1.py
+  Base: base outcrop images, labelled base0 to base[n-1], where n is the total number of images
+  Trace: images of traces of cracks for each base image, labelled trace0 to trace[n-1]

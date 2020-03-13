@@ -1,4 +1,0 @@
-numpy >= 1.14.2
-mahotas >= 1.4.4
-glob
-cv2 >= 3.2.0
